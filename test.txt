@@ -1,2 +1,2 @@
-Vim as commit message editor
+Nano as commit message editor
 VS Code as commit message editor
